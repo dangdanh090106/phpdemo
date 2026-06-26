@@ -1,5 +1,4 @@
 <?php
-// 1. Khai báo các biến thông tin sinh viên
 $ho_ten = "Đặng Công Danh";
 $tuoi = 20;
 $nganh_hoc = "Công nghệ thông tin";
